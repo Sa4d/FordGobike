@@ -1,7 +1,7 @@
 # FordGobike
-(Ford GoBike System Data analysis Presentation)
-by (Saad Alrazoq)
-Dataset
+### (Ford GoBike System Data analysis Presentation)
+#### by (Saad Alrazoq)
+# Dataset
 in this dataset we have a 16 different features, 183,412 different trips and one of them was dropped because of age and used the dataset to find some patterns that could help the company to discover more information about their customers and subscribers.
 
 Summary of Findings
